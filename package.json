@@ -1,0 +1,23 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "Tech Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-codeFella/Multivision.git"
+  },
+  "author": "Shams Rizvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam-codeFella/Multivision/issues"
+  },
+  "homepage": "https://github.com/sam-codeFella/Multivision#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0"
+  }
+}
